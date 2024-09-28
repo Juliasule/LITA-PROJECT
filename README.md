@@ -1,5 +1,11 @@
 # LITA-PROJECT
+
+[Project Overview](#project-overview)
+
+[Data Analysis](#data-analysis)
+
 ### Project Tile: Product Brand Analysis
+---
 
 ### Project Overview
 This Data analysis project aims to generate insight into the sales performance of different brand products in the market, by analyzing the various parameters in the data received.
@@ -28,9 +34,17 @@ EDA involves exploring the Data to answer some questions about the Data such as;
 - What products are top sellers
 -  What are the products on peak sales?
 
-### Data Analysis
+    ### Data Analysis
 This is where we include some basic lines of code of queries or even some of the DAX expressions used during analysis;
 ```SQL
 SELECT * FROM Table 1
 WHERE condition = True
 ```
+
+### Data Visualization
+|Heding 1 |Heading 2 |Heading 3|
+|---------|----------|---------|
+|Table 1  | Table 2  | Table 3 |
+
+🕺 😆
+
