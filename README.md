@@ -2,7 +2,20 @@
 
 [Project Overview](#project-overview)
 
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
+[Data Cleansing and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
 [Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+
+
 
 ### Project Tile: Product Brand Analysis
 ---
