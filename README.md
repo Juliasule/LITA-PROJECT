@@ -18,6 +18,19 @@ The primary source of the data used here is Data_Sala.csv and this is open-sourc
 
 ### Data Cleansing and Preparation
 In the initial phase of data cleaning and preparations, we perform the following actions:
-_ Data loading and inspection.
-_ Handling missing variables.
-_ Data cleaning and formatting'
+- Data loading and inspection.
+- Handling missing variables.
+- Data cleaning and formatting'
+
+### Exploratory Data Analysis
+EDA involves exploring the Data to answer some questions about the Data such as;
+- What is the overall sales trend
+- What products are top sellers
+-  What are the products on peak sales?
+
+### Data Analysis
+This is where we include some basic lines of code of queries or even some of the DAX expressions used during analysis;
+```SQL
+SELECT * FROM Table 1
+WHERE condition = True
+```
