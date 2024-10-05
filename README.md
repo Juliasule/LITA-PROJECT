@@ -50,14 +50,16 @@ EDA involves exploring the Data to answer some questions about the Data such as;
     ### Data Analysis
 This is where we include some basic lines of code of queries or even some of the DAX expressions used during analysis;
 ```SQL
-SELECT * FROM Table 1
-WHERE condition = True
+SELECT  SUM(PROFIT) AS Totalprofit FROM [dbo].[International Breweries]
 ```
 
 ### Data Visualization
 |Heding 1 |Heading 2 |Heading 3|
 |---------|----------|---------|
 |Table 1  | Table 2  | Table 3 |
+
+![CHART](https://github.com/user-attachments/assets/baf4c1a1-6284-4816-9f8e-523041c69a8f)
+
 
 🕺 😆
 
