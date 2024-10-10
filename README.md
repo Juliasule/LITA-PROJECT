@@ -65,8 +65,8 @@ This dataset can be used for:
 
 ### Data Analysis
 This is where we include some basic lines of code of queries or even some of the DAX expressions used during analysis;
-```SQL
-SELECT  SUM(PROFIT) AS Totalprofit FROM [dbo].[International Breweries]
+```Excel Formula
+=IF(L914>54,"Old",IF(L914>=31,"Middle Age",IF(L914<31,"Adolence","invalid")))
 ```
 
 ### Data Visualization
@@ -95,5 +95,16 @@ SELECT  SUM(PROFIT) AS Totalprofit FROM [dbo].[International Breweries]
 
 
 ### Findings
+- A higher percentage of bike buyers are male and tend to earn more than their female counterparts.
+- Distance influences the decision to buy a bike.
+- Middle-aged groups are purchasing more bikes than both older adults and adolescents.
+- E.t.c
+
+
+
+
+
+
+
 
 
