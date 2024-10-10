@@ -17,15 +17,29 @@
 
 
 
-### Project Tile: Product Brand Analysis
+### Project Tile: Bike Buyers Behavior Analysis
+This repository contains a dataset related to **bike buyers**. The dataset includes customer information that can be used to analyze patterns and factors affecting bike purchase behavior.
 ---
 
 ### Project Overview
-This Data analysis project aims to generate insight into the sales performance of different brand products in the market, by analyzing the various parameters in the data received.
-This aims to provide insights to make informed decisions on the products.
+This data set contains various features about individuals influencing their bike purchases.
 
 ### Data Source
-The primary source of the data used here is Data_Sala.csv and this is open-source data that can be freely downloaded from an open source online on Kaggle.com or any other data repository site.
+The dataset was obtained from [https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx]
+
+### Features:
+- **ID**: Unique identifier for each customer.
+- **Gender**: The gender of the customer.
+- **Age**: The age of the customer.
+- **Income**: Customer Annual Income.
+- **Marital Status**: Whether the customer is married or not.
+- **Education**: Level of education.
+- **Occupation**: Job or professional category.
+- **Home Owner**: Whether the customer owns a home.
+- **Commute Distance**: Distance of commute to work.
+- **Bike Purchased**: A binary variable indicating whether a bike was purchased.
+
+
 
 ### Tools Used [Download Here](https://www.microsoft.com)
 - Microsoft Excel for:
