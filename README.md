@@ -93,3 +93,7 @@ SELECT  SUM(PROFIT) AS Totalprofit FROM [dbo].[International Breweries]
 ![image](https://github.com/user-attachments/assets/ed102d0a-126a-4b1e-a75f-baa8751fb331)
 
 
+
+### Findings
+
+
